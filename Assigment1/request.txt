@@ -1,0 +1,12 @@
+Submit your work on:
+- TF/IDF 
+- Text preprocessing 
+- FFNN implementation
+
+Late day rule: -1 point for every late day
+
+Submission format should be one of these following (You can name the file whatever you want, but it should have your full name on it):
+- A link to your Google Colab file
+- A zip file (in case you have multiple files) or a folder is okay too
+- A python file (.py)
+- A python notebook file (.ipynb)
