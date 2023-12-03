@@ -1,2 +1,3 @@
 # bỏ qua thư mục data
 /data/
+!/data/README.md
