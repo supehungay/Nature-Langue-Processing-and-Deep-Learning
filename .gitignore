@@ -1,3 +1,16 @@
 # bỏ qua thư mục data
 /data/
 !/data/README.md
+
+final/.venv
+final/venv
+final/data/dataset_article*
+final/data/test
+final/data/train
+final/data/validation
+final/data/ViMs*
+final/reference
+final/src/__pycache__
+final/src/manual_model/__pycache__
+final/Saved.zip
+final/Source_Uoa_Final_Exam_TextSummary.zip

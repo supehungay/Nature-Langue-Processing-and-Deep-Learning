@@ -1,0 +1,13 @@
+.venv
+venv
+draft
+data/dataset_article*
+data/test
+data/train
+data/validation
+data/ViMs*
+reference
+/src/__pycache__
+/src/manual_model/__pycache__
+Saved.zip
+Source_Uoa_Final_Exam_TextSummary.zip
